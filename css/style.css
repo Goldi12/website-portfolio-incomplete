@@ -1,0 +1,161 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.profile {
+  width: 400px;
+}
+
+#title {
+  text-align: center;
+  padding: 2% 10%;
+}
+
+#navbar {
+  padding: 1% 10%;
+}
+
+.navbar-brand {
+  color: #B91646 !important;
+  font-weight: 800;
+}
+
+.nav-link {
+  color: #333333 !important;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 2px;
+}
+
+.nav-link:hover {
+  color: #B91646 !important;
+}
+
+.text-web {
+  padding-top: 20%;
+}
+
+.welcome {
+  font-size: 25px;
+  color: #B91646;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  position: relative;
+  left: 15px;
+}
+
+.developer {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  position: relative;
+  left: 15px;
+  padding: 0.2em 0;
+}
+
+.sociel-icon {}
+
+.fab {
+  color: #B91646;
+  font-size: 40px;
+  padding: 5px;
+  display: inline-block;
+}
+
+.p1 {
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  font-size: 15px;
+  color: #333333;
+  text-align: left;
+  /* padding-right: 10px; */
+}
+
+.p2 {
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #333333;
+  margin: 0;
+  text-align: left;
+  /* padding-right: 10px; */
+}
+
+/* BIO- PAGE SECTION */
+#BIO-PAGE {
+  padding: 5% 10% 0% 15%;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+
+  text-transform: capitalize;
+
+}
+
+h6{
+  padding-top: 10px;
+}
+.h6change{
+position: relative;
+right: 10rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+
+}
+.btn{
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+  right: 18.2rem;
+  top: 2rem;
+
+}
+#card{
+  text-align: center;
+  padding: 1% 10%;
+}
+
+
+#card2{
+  text-align: center;
+  padding: 0.6% 10%;
+}
+
+
+.heading-1{
+    font-size: 42px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #222;
+    margin-top: 140px;
+}
+
+hr{
+  width: 7%;
+
+  background-color: red;
+
+
+}
+
+
+#blog{
+  padding: 1% 10%;
+}
+
+.blog-text{
+  padding-left: 32rem;
+}
+
+
+/* TABLE ZONE */ */
+.{
+  position: relative;
+  bottom: 300px;
+
+}
